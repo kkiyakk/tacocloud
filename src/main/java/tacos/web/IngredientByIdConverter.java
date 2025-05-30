@@ -1,6 +1,6 @@
 package tacos.web;
 
-import org.jetbrains.annotations.NotNull;
+import jakarta.validation.constraints.NotNull;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 import org.springframework.beans.factory.annotation.Autowired;
